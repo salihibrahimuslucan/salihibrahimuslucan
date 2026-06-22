@@ -11,4 +11,4 @@ Most days that's at Aquatronic — fountains, water features, DMX lighting. I wr
 ### Reach for
 `C` · `C++` · `Python` · `JavaScript` · `Flask` · `ezdxf` · `Tesseract` · `Git`
 
-Most of my real work lives in private repos (not mine to publish), so this profile's a little bare. The actual story is on the [portfolio](https://salihibrahimuslucan.github.io).
+Most of my work lives in private repos that aren't mine to publish — but here's one I could open up: a sanitized demo of the stock app, running on sample data. [Live demo](https://salihibrahimuslucan.github.io/stock-app-demo/) · [code](https://github.com/salihibrahimuslucan/stock-app-demo). The fuller story is on the [portfolio](https://salihibrahimuslucan.github.io).
